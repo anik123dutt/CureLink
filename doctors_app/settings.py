@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-y#^ep+^=ju!n$%ne$yz-eyu=z5iq0og5)4d@ipe$*0nru6ji*r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://curelink-final.onrender.com/"]
 
 
 # Application definition
